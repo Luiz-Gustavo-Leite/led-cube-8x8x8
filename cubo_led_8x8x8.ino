@@ -3,12 +3,8 @@
 // Centro Universitário das Américas (FAM)
 // 7º Congresso de Projetos Interdisciplinares
 //
-// Autores:
-//   Lima, F. F
-//   Santos, G. F
-//   Lopes, G. G
-//   Soares, L. G. L
-//   Santos, O. M
+// Autor:
+// Luiz Gustavo Leite Soares
 //
 // Professor orientador: Trevisan, F.
 // Curso: Engenharia da Computação
