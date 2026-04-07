@@ -5,8 +5,11 @@ Projeto Interdisciplinar desenvolvido no **7º Congresso de Projetos Interdiscip
 ---
 
 ## 👥 Autor
-
+- Fabiano Ferreira de Lima
+- Felipe Georgeto do Santos
+- Gabriel Guardiano Lopes
 - Luiz Gustavo Leite Soares
+- Matheus de Oliveira Santos
 
 **Professor orientador:** Trevisan, F.  
 **Curso:** Engenharia da Computação — FAM, São Paulo, 2024
