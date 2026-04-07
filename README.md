@@ -69,7 +69,7 @@ O cubo utiliza a técnica de **multiplexação**: cada camada é ativada sequenc
 ### Passos
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/cubo-led-8x8x8.git
+   git clone https://github.com/Luiz-Gustavo-Leite/LED-cube-8x8x8.git
    ```
 2. Abra o arquivo `cubo_led_8x8x8.ino` na Arduino IDE
 3. Conecte o Arduino via USB
