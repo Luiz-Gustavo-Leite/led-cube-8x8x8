@@ -4,13 +4,9 @@ Projeto Interdisciplinar desenvolvido no **7º Congresso de Projetos Interdiscip
 
 ---
 
-## 👥 Autores
+## 👥 Autor
 
-- Lima, F. F  
-- Santos, G. F  
-- Lopes, G. G  
-- Soares, L. G. L  
-- Santos, O. M  
+- Luiz Gustavo Leite Soares
 
 **Professor orientador:** Trevisan, F.  
 **Curso:** Engenharia da Computação — FAM, São Paulo, 2024
