@@ -4,7 +4,7 @@ Projeto Interdisciplinar desenvolvido no **7º Congresso de Projetos Interdiscip
 
 ---
 
-## 👥 Autor
+## 👥 Autores:
 - Fabiano Ferreira de Lima
 - Felipe Georgeto do Santos
 - Gabriel Guardiano Lopes
